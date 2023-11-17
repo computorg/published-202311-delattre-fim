@@ -17,7 +17,7 @@ keywords: [Model-based standard error, moment estimate, Fisher identity, stochas
 citation:
   type: article-journal
   container-title: "Computo"
-  doi: "xxxx"
+  doi: "10.57750/r5gx-jk62"
   publisher: "Société Française de Statistique"
 github: https://github.com/madelattre/FIM
 bibliography: references.bib
@@ -27,8 +27,8 @@ execute:
   warning: false
   message: false
   keep-md: false
-draft: true # set to false once the build is running
-published: false # will be set to true once accepted
+draft: false # set to false once the build is running
+published: true # will be set to true once accepted
 format:
   computo-html: default
   computo-pdf: default
