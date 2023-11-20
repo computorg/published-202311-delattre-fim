@@ -22,7 +22,7 @@ citation:
 github: https://github.com/madelattre/FIM
 bibliography: references.bib
 github-user: computorg
-repo: "template-computo-r" 
+repo: "published-202311-delattre-fim" 
 execute:
   warning: false
   message: false
