@@ -10,7 +10,8 @@ author:
     email: estelle.kuhn@inrae.fr
     affiliation: 
       - name: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
-date: last-modified
+date: 11/21/2023
+date-modified: last-modified
 abstract: >+
   The Fisher information matrix (FIM) is a key quantity in statistics. However its exact computation is often not trivial. In particular in many latent variable models, it is intricated due to the presence of unobserved variables. Several methods have been proposed to approximate the  FIM when it can not be evaluated analytically.  Different  estimates have been considered, in particular moment estimates. However some of them require to compute second derivatives of the complete data log-likelihood which leads to some disadvantages. In this paper, we focus on the empirical Fisher information matrix defined as an empirical estimate of the covariance matrix of the score, which only requires to compute the first derivatives of the log-likelihood. Our contribution consists in presenting a new numerical method to evaluate this empirical Fisher information matrix in latent variable model when the proposed estimate can not be directly analytically evaluated. We propose a stochastic approximation estimation algorithm to compute this estimate as a by-product of the parameter estimate. We evaluate the finite sample size properties of the proposed estimate and the convergence properties of the estimation algorithm through simulation studies. 
 keywords: [Model-based standard error, moment estimate, Fisher identity, stochastic approximation algorithm]
@@ -19,6 +20,7 @@ citation:
   container-title: "Computo"
   doi: "10.57750/r5gx-jk62"
   publisher: "Société Française de Statistique"
+google-scholar: true
 github: https://github.com/madelattre/FIM
 bibliography: references.bib
 github-user: computorg
