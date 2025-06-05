@@ -1,12 +1,12 @@
 # Computing an empirical Fisher information matrix estimate in latent variable models through stochastic approximation
 
-by 
+[![build and publish](https://github.com/computorg/published-202311-delattre-fim/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202311-delattre-fim/actions/workflows/build.yml)
+
+Authors: 
 
 - Maud Delattre (Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France)
 - Estelle Kuhn (Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France)
 
-[![build status](https://github.com/computorg/published-202311-delattre-fim/workflows/build/badge.svg)](https://github.com/computorg/published-202311-delattre-fim/)
-[![](https://img.shields.io/github/last-commit/computorg/published-202311-delattre-fim.svg)](https://github.com/computorg/published-202311-delattre-fim/commits/main)
 [![DOI:10.57750/r5gx-jk62](https://img.shields.io/badge/DOI-10.57750/r5gx--jk62-034E79.svg)](https://doi.org/10.57750/r5gx-jk62)
 [![HTML](https://img.shields.io/badge/article-HTML-034E79)](https://computo.sfds.asso.fr/published-202311-delattre-fim/)
 [![PDF](https://img.shields.io/badge/article-PDF-034E79)](https://computo.sfds.asso.fr/published-202311-delattre-fim/published-202311-delattre-fim.pdf)
