@@ -1,1 +1,1 @@
-sudo apt install -y cmake libcairo2-dev libfontconfig1-dev libfreetype6-dev pandoc
+sudo apt install -y cmake libcairo2-dev libfontconfig1-dev libfreetype6-dev pandoc libharfbuzz-dev libfribidi-dev
