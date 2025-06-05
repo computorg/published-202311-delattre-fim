@@ -1,6 +1,6 @@
 # Computing an empirical Fisher information matrix estimate in latent variable models through stochastic approximation
 
-
+[![build and publish](https://github.com/computorg/published-202311-delattre-fim/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/published-202311-delattre-fim/actions/workflows/build.yml)
 
 Authors: 
 
