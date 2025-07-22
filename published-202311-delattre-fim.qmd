@@ -21,8 +21,6 @@ citation:
   doi: "10.57750/r5gx-jk62"
   publisher: "French Statistical Society"
   issn: "2824-7795"
-  pdf-url: "https://computo.sfds.asso.fr/published-202311-delattre-fim/published-202311-delattre-fim.pdf"
-  url: "https://computo.sfds.asso.fr/published-202311-delattre-fim/"
 google-scholar: true
 bibliography: references.bib
 github-user: computorg
