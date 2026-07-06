@@ -1,6 +1,7 @@
 project:
   render:
-    - published-202311-delattre-fim.qmd
+    - main.qmd
+    - README.qmd
 
 title: "Computing  an empirical  Fisher information matrix estimate in latent variable models through stochastic approximation"
 author:
@@ -32,8 +33,7 @@ execute:
   warning: false
   message: false
   keep-md: false
-draft: false # set to false once the build is running
-published: true # will be set to true once accepted
+status: published
 format:
   computo-html: default
   computo-pdf: default
