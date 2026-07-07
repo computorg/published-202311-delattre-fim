@@ -8,11 +8,13 @@ author:
   - name: Maud Delattre
     corresponding: true
     email: maud.delattre@inrae.fr
-    affiliation: 
+    orcid: 0000-0002-3775-9278
+    affiliation:
       - name: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
   - name: Estelle Kuhn
     email: estelle.kuhn@inrae.fr
-    affiliation: 
+    orcid: 0000-0002-1236-8190
+    affiliation:
       - name: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
 date: 11/21/2023
 date-modified: last-modified
@@ -28,8 +30,12 @@ citation:
   url: "https://computo-journal.org/published-202311-delattre-fim/"
 google-scholar: true
 bibliography: references.bib
+related-identifiers:
+  - relation: IsVersionOf
+    type: URL
+    identifier: "https://hal.inrae.fr/hal-04347257"
 github-user: computorg
-repo: "published-202311-delattre-fim" 
+repo: "published-202311-delattre-fim"
 execute:
   warning: false
   message: false
