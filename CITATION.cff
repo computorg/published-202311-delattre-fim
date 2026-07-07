@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: If you use or cite this article, please use the metadata provided in 'preferred-citation'.
+title: Computing  an empirical  Fisher information matrix estimate in latent variable
+  models through stochastic approximation
+authors:
+- family-names: Delattre
+  given-names: Maud
+  orcid: https://orcid.org/0000-0002-3775-9278
+  affiliation: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
+- family-names: Kuhn
+  given-names: Estelle
+  orcid: https://orcid.org/0000-0002-1236-8190
+  affiliation: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
+url: https://computo-journal.org/published-202311-delattre-fim/
+preferred-citation:
+  type: article
+  title: Computing  an empirical  Fisher information matrix estimate in latent variable
+    models through stochastic approximation
+  authors:
+  - family-names: Delattre
+    given-names: Maud
+    orcid: https://orcid.org/0000-0002-3775-9278
+    affiliation: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
+  - family-names: Kuhn
+    given-names: Estelle
+    orcid: https://orcid.org/0000-0002-1236-8190
+    affiliation: Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France
+  journal: Computo
+  issn: 2824-7795
+  url: https://computo-journal.org/published-202311-delattre-fim/
+  publisher:
+    name: French Statistical Society
+  doi: 10.57750/r5gx-jk62
+  year: 2023
+doi: 10.57750/r5gx-jk62
+date-released: '2023-11-01'
